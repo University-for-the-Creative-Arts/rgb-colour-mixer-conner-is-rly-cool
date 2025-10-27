@@ -1,2 +1,5 @@
 # raylib-blank
- a blank starter raylib template
+
+Gonna be honest did this somewhere else 
+
+https://github.com/GingerNinjaProgramming/FunFunRepoOfColour - Actual proj
